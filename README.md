@@ -22,3 +22,15 @@
 [ ] Spring  <p>
 [ ] Spring Boot <p>
 [ ] SQL <p>
+[ ] HTML <p>
+[ ] CSS <p>
+[ ] Bootstrap <p>
+[ ] Tilwind <p>
+[ ] JavaScript & ES6+ <p>
+[ ] TypeScript <p>
+[ ] Angular <p>
+[ ] React <p>
+[ ] MongoDB <p>
+[ ] C# <p>
+[ ] Python <p>
+[ ] SASS <p>
