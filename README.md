@@ -32,5 +32,6 @@
 [ ] React <p>
 [ ] MongoDB <p>
 [ ] C# <p>
-[ ] Python <p>
+[ ] Machine Learning with Python <p>
 [ ] SASS <p>
+[ ] Flutter <p>
