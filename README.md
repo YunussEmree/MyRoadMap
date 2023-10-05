@@ -27,6 +27,7 @@
 [ ] Bootstrap <p>
 [ ] Tilwind <p>
 [ ] JavaScript & ES6+ <p>
+[ ] Node.js
 [ ] TypeScript <p>
 [ ] Angular <p>
 [ ] React <p>
