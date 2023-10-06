@@ -7,7 +7,7 @@
 [x] Java Class <p>
 [x] Java Encapsulation <p>
 [x] Java Constructors <p>
-[ ] Java Inheritance <p>
+[x] Java Inheritance <p>
 [ ] Java Polymorphism <p>
 [ ] Java Abstract Class <p>
 [ ] Java Composition <p>
