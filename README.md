@@ -33,6 +33,6 @@
 [ ] Node.js <p>
 [ ] MongoDB <p>
 [ ] C# <p>
-[ ] Machine Learning with Python <p>
 [ ] SASS <p>
 [ ] Flutter <p>
+[ ] Machine Learning with Python <p>
