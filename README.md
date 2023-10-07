@@ -25,7 +25,7 @@
 [ ] HTML <p>
 [ ] CSS <p>
 [ ] Bootstrap <p>
-[ ] Tilwind <p>
+[ ] Tailwind <p>
 [ ] JavaScript & ES6+ <p>
 [ ] TypeScript <p>
 [ ] Angular <p>
