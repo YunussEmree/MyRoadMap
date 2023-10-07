@@ -30,13 +30,15 @@
 [ ] TypeScript <p>
 [ ] Angular <p>
 [ ] React <p>
-[ ] Vue <p>
 [ ] Node.js <p>
 [ ] Docker <p>
-[ ] AWS <p>
-[ ] Azure <p>
 [ ] MongoDB <p>
 [ ] C# <p>
+
+
+[ ] Vue <p>
+[ ] AWS <p>
+[ ] Azure <p>
 [ ] SASS <p>
 [ ] Flutter <p>
 [ ] Machine Learning with Python <p>
