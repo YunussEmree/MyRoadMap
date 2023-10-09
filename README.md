@@ -8,7 +8,7 @@
 [x] Java Encapsulation <p>
 [x] Java Constructors <p>
 [x] Java Inheritance <p>
-[ ] Java Polymorphism <p>
+[x] Java Polymorphism <p>
 [ ] Java Abstract Class <p>
 [ ] Java Composition <p>
 [ ] Java Inner Class <p>
@@ -21,7 +21,6 @@
 [ ] Java Swing <p>
 [ ] Spring  <p>
 [ ] Spring Boot <p>
-[ ] Python <p>
 [ ] SQL <p>
 [ ] HTML <p>
 [ ] CSS <p>
@@ -29,17 +28,16 @@
 [ ] Tailwind <p>
 [ ] JavaScript & ES6+ <p>
 [ ] TypeScript <p>
-[ ] Angular <p>
 [ ] React <p>
 [ ] Node.js <p>
 [ ] Docker <p>
 [ ] MongoDB <p>
 [ ] C# <p>
-
-
-[ ] Vue <p>
-[ ] AWS <p>
-[ ] Azure <p>
 [ ] SASS <p>
 [ ] Flutter <p>
 [ ] Machine Learning with Python <p>
+
+[ ] Angular <p>
+[ ] Vue <p>
+[ ] AWS <p>
+[ ] Azure <p>
