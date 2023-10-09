@@ -21,6 +21,7 @@
 [ ] Java Swing <p>
 [ ] Spring  <p>
 [ ] Spring Boot <p>
+[ ] Python <p>
 [ ] SQL <p>
 [ ] HTML <p>
 [ ] CSS <p>
