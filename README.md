@@ -27,16 +27,18 @@
 [ ] Bootstrap <p>
 [ ] Tailwind <p>
 [ ] JavaScript & ES6+ <p>
+[ ] Node.js <p>
 [ ] TypeScript <p>
 [ ] React <p>
-[ ] Node.js <p>
-[ ] Docker <p>
 [ ] MongoDB <p>
-[ ] C# <p>
+[ ] Kotlin <p>
 [ ] SASS <p>
+ <p>
+ <p>
+[ ] Docker <p>
+[ ] C# <p>
 [ ] Flutter <p>
 [ ] Machine Learning with Python <p>
-
 [ ] Angular <p>
 [ ] Vue <p>
 [ ] AWS <p>
