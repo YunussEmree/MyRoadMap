@@ -34,6 +34,9 @@
 [ ] Kotlin <p>
 [ ] SASS <p>
 [ ] C# <p>
+[ ] Redis <p>
+[ ] Mysql <p>
+[ ] AWS <p>
  <p>
  <p>
 [ ] Docker <p>
@@ -41,5 +44,4 @@
 [ ] Machine Learning with Python <p>
 [ ] Angular <p>
 [ ] Vue <p>
-[ ] AWS <p>
 [ ] Azure <p>
