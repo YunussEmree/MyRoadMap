@@ -37,8 +37,8 @@
 [ ] Redis <p>
 [ ] Mysql <p>
 [ ] AWS <p>
- <p>
- <p>
+<p>
+<p>
 [ ] Docker <p>
 [ ] Flutter <p>
 [ ] Machine Learning with Python <p>
