@@ -21,6 +21,13 @@
 [ ] Java Swing <p>
 [ ] Spring  <p>
 [ ] Spring Boot <p>
+<p>
+[x] Python Basics <p>
+[x] Numpy lib <p>
+[ ] Pandas lib  <p>
+[ ] Machine learning <p>
+[ ] Python Django <p>
+<p>
 [ ] SQL <p>
 [ ] HTML <p>
 [ ] CSS <p>
