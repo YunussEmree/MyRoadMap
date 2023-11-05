@@ -25,8 +25,12 @@
 [x] Python Basics <p>
 [x] Numpy lib <p>
 [ ] Pandas lib  <p>
+[ ] Pytorch <p>
+[ ] torchvision <p>
+[ ] torchsummary <p>
+[ ] scikit-learn <p>
+[ ] matplotlib <p>
 [ ] Machine learning <p>
-[ ] Python Django <p>
 <p>
 [ ] SQL <p>
 [ ] HTML <p>
