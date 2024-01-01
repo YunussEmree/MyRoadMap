@@ -24,13 +24,16 @@
 <p>
 [x] Python Basics <p>
 [x] Numpy lib <p>
-[ ] Pandas lib  <p>
+[X] Pandas lib  <p>
 [ ] Pytorch <p>
 [ ] torchvision <p>
 [ ] torchsummary <p>
 [ ] scikit-learn <p>
-[ ] matplotlib <p>
-[ ] Machine learning <p>
+[X] matplotlib <p>
+[ ] tensorflow <p>
+<p>
+[X] Dart <p>
+[ ] Flutter <p>
 <p>
 [ ] SQL <p>
 [ ] HTML <p>
@@ -51,7 +54,6 @@
 <p>
 <p>
 [ ] Docker <p>
-[ ] Flutter <p>
 [ ] Machine Learning with Python <p>
 [ ] Angular <p>
 [ ] Vue <p>
