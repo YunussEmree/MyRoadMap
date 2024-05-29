@@ -1,4 +1,4 @@
-# MyFullStackRoadMap
+# MyRoadMap
 
 [x] Java Variables and Data Types <p>
 [x] Java Conditions <p>
@@ -9,18 +9,18 @@
 [x] Java Constructors <p>
 [x] Java Inheritance <p>
 [x] Java Polymorphism <p>
-[ ] Java Abstract Class <p>
-[ ] Java Composition <p>
-[ ] Java Inner Class <p>
-[ ] Java Static <p>
-[ ] Java Packages <p>
-[ ] Java Collections <p>
-[ ] Java Generics <p>
-[ ] Java Threading <p>
-[ ] Java JDBC <p>
-[ ] Java Swing <p>
-[ ] Spring  <p>
-[ ] Spring Boot <p>
+[x] Java Abstract Class <p>
+[x] Java Composition <p>
+[x] Java Inner Class <p>
+[x] Java Static <p>
+[x] Java Packages <p>
+[x] Java Collections <p>
+[x] Java Generics <p>
+[x] Java Threading <p>
+[x] Java JDBC <p>
+[x] Java Swing <p>
+[x] Spring  <p>
+[x] Spring Boot <p>
 <p>
 [x] Python Basics <p>
 [x] Numpy lib <p>
@@ -30,20 +30,13 @@
 [ ] torchsummary <p>
 [ ] scikit-learn <p>
 [X] matplotlib <p>
-[ ] tensorflow <p>
-<p>
 [X] Dart <p>
 [ ] Flutter <p>
-<p>
-[ ] SQL <p>
 [ ] HTML <p>
 [ ] CSS <p>
 [ ] Bootstrap <p>
-[ ] Tailwind <p>
-[ ] JavaScript & ES6+ <p>
 [ ] Node.js <p>
 [ ] TypeScript <p>
-[ ] React <p>
 [ ] MongoDB <p>
 [ ] Kotlin <p>
 [ ] SASS <p>
@@ -51,10 +44,5 @@
 [ ] Redis <p>
 [ ] Mysql <p>
 [ ] AWS <p>
-<p>
-<p>
 [ ] Docker <p>
-[ ] Machine Learning with Python <p>
-[ ] Angular <p>
-[ ] Vue <p>
 [ ] Azure <p>
